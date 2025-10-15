@@ -1,7 +1,7 @@
 ---
 title: "HSTNet: A Hybrid Spatial-Channel Sparse Transformer Network for Infrared Small Target Detection"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: '**Ke Li**, Yining Wang, Fujun Han, Hu Wang, Zige Xiong, Yan Tian'
 date: 2025-9-11
