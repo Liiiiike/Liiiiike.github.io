@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my Ph.D. degree at the National Key Laboratory of Science and Technology on Multispectral Information Processing, School of Electronic Information and Communications, .[Huazhong University of Science and Technology]_(https://www.hust.edu.cn/)., Wuhan, China. I received my Master of Engineering degree from .[Southwest University]_(https://www.swu.edu.cn/)., Chongqing, China, in 2023. My research interests include Computer Vision and Pattern Recognition.
+I am currently pursuing my Ph.D. degree at the National Key Laboratory of Science and Technology on Multispectral Information Processing, School of Electronic Information and Communications, .[Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China. I received my Master of Engineering degree from .[Southwest University](https://www.swu.edu.cn/), Chongqing, China, in 2023. My research interests include Computer Vision and Pattern Recognition
 
 I have published papers in leading journals and conferences, including IEEE Transactions on Geoscience and Remote Sensing (T-GRS), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS), International Journal of Machine Learning and Cybernetics (IJMLC), and ICDM 2025.
 
-In addition, I also serve as a reviewer for several prestigious conferences and journals. If you are interested in my research or have any questions, you can contact me via email: .[like@hust.edu.cn]_(like@hust.edu.cn).
+In addition, I also serve as a reviewer for several prestigious conferences and journals. If you are interested in my research or have any questions, you can contact me via email: .[like@hust.edu.cn](like@hust.edu.cn),
 
  
 
