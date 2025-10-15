@@ -33,6 +33,6 @@ Publication List:
 
 2024 Year
 ------
-[1] On 05 July 2024, a paper was accepted by *International Journal of Machine Learning and Cybernetics*
+[1] On 05 July 2023, a paper was accepted by *International Journal of Machine Learning and Cybernetics*
 
 
