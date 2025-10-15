@@ -10,7 +10,7 @@ I am currently pursuing my Ph.D. degree at the National Key Laboratory of Scienc
 
 I have published papers in leading journals and conferences, including IEEE Transactions on Geoscience and Remote Sensing (T-GRS), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS), International Journal of Machine Learning and Cybernetics (IJMLC), and ICDM 2025.
 
-In addition, I also serve as a reviewer for several prestigious conferences and journals. If you are interested in my research or have any questions, you can contact me via email: [like@hust.edu.cn](like@hust.edu.cn),
+In addition, I also serve as a reviewer for several prestigious conferences and journals. If you are interested in my research or have any questions, you can contact me via email: [like@hust.edu.cn](like@hust.edu.cn).
 
  
 
