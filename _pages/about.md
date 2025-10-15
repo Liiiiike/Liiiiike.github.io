@@ -33,7 +33,7 @@ Publication List:
 
 2024 Year
 ------
-[4] On 07 May 2024, a paper was accepted by IEEE *Transactions on Automation Science and Engineering* **(CCF-B)**
+[4] On 07 May 2024, a paper was accepted by IEEE *Transactions on Automation Science and Engineering* **(CCF-B)** **(JCR Q1)**
 
 2023 Year
 ------
