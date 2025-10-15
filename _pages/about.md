@@ -25,11 +25,11 @@ Publication List:
 
 2025 Year
 ------
-[1] On 06 October 2025, a paper was accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
+[1] On 06 October 2025, a paper was accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* **(JCR Q1)**
 
-[2] On 11 September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)**
+[2] On 11 September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)** **(JCR Q1)**
 
-[3] On 26 August 2025, a paper was accepted by *IEEE International Conference on Data Mining* **(CCF-B)**
+[3] On 26 August 2025, a paper was accepted by *IEEE International Conference on Data Mining* **(CCF-B)** 
 
 2024 Year
 ------
@@ -37,5 +37,5 @@ Publication List:
 
 2023 Year
 ------
-[5] On 05 July 2023, a paper was accepted by *International Journal of Machine Learning and Cybernetics*
+[5] On 05 July 2023, a paper was accepted by *International Journal of Machine Learning and Cybernetics* **(JCR Q1)**
 
