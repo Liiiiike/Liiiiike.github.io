@@ -33,6 +33,9 @@ Publication List:
 
 2024 Year
 ------
-[1] On 05 July 2023, a paper was accepted by *International Journal of Machine Learning and Cybernetics*
+[4] On 07 May 2024, a paper was accepted by IEEE *Transactions on Automation Science and Engineering* **(CCF-B)**
 
+2023 Year
+------
+[5] On 05 July 2023, a paper was accepted by *International Journal of Machine Learning and Cybernetics*
 
