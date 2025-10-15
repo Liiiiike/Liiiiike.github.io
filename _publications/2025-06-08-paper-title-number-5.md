@@ -1,7 +1,7 @@
 ---
 title: "MF-ID: A Benchmark and Approach for Multi-Category Fine-Grained Intrusion Detection"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-06-08-paper-title-number-5
 excerpt: 'Fujun Han, Peng Ye, **Ke Li**, Shukai Duan, Lidan Wang'
 date: 2024-05-07
