@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my Ph.D. degree at the National Key Laboratory of Science and Technology on Multispectral Information Processing, School of Electronic Information and Communications, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China. I received my Master of Engineering degree from [Southwest University](https://www.swu.edu.cn/), Chongqing, China, in 2023. My research interests include Computer Vision and Pattern Recognition.
+I am currently pursuing my Ph.D. degree at the National Key Laboratory of Science and Technology on Multispectral Information Processing, School of Electronic Information and Communications, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China. I received my Master of Engineering degree from [Southwest University](https://www.swu.edu.cn/), Chongqing, China, in 2023. Prior to my Ph.D., I worked as an **AI Algorithm Engineer at Alibaba**, focusing on **intelligent cockpit systems and autonomous driving technologies**. My research interests include Computer Vision and Pattern Recognition.
 
 I have published papers in leading journals and conferences, including IEEE Transactions on Geoscience and Remote Sensing (T-GRS), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS), International Journal of Machine Learning and Cybernetics (IJMLC), and ICDM 2025.
 
