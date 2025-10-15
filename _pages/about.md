@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am currently pursuing my Ph.D. degree at the National Key Laboratory of Science and Technology on Multispectral Information Processing, School of Electronic Information and Communications, .[Huazhong University of Science and Technology]_(https://www.hust.edu.cn/)., Wuhan, China. I received my Master of Engineering degree from .[Southwest University]_(https://www.swu.edu.cn/)., Chongqing, China, in 2023. My research interests include Computer Vision and Pattern Recognition.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I have published papers in leading journals and conferences, including IEEE Transactions on Automation Science and Engineering (T-ASE), International Journal of Machine Learning and Cybernetics (IJMLC), IEEE Transactions on Geoscience and Remote Sensing (T-GRS), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS), and ICDM 2025.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+In addition, I also serve as a reviewer for several prestigious conferences and journals. If you are interested in my research or have any questions, you can contact me via email: .[like@hust.edu.cn]_(like@hust.edu.cn).
+
+ 
 
 A data-driven personal website
 ======
