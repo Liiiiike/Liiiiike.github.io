@@ -22,20 +22,23 @@ Advisor:
 
 Publication List:
 ======
+2026 Year
+------
+[1] On 24 March 2026, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)** **(JCR Q1)**
 
 2025 Year
 ------
-[1] On 06 October 2025, a paper was accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* **(JCR Q1)**
+[2] On 06 October 2025, a paper was accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* **(JCR Q1)**
 
-[2] On 11 September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)** **(JCR Q1)**
+[3] On 11 September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)** **(JCR Q1)**
 
-[3] On 26 August 2025, a paper was accepted by *IEEE International Conference on Data Mining* **(CCF-B)** 
+[4] On 26 August 2025, a paper was accepted by *IEEE International Conference on Data Mining* **(CCF-B)** 
 
 2024 Year
 ------
-[4] On 07 May 2024, a paper was accepted by IEEE *Transactions on Automation Science and Engineering* **(CCF-B)** **(JCR Q1)**
+[5] On 07 May 2024, a paper was accepted by IEEE *Transactions on Automation Science and Engineering* **(CCF-B)** **(JCR Q1)**
 
 2023 Year
 ------
-[5] On 05 July 2023, a paper was accepted by *International Journal of Machine Learning and Cybernetics* **(JCR Q1)**
+[6] On 05 July 2023, a paper was accepted by *International Journal of Machine Learning and Cybernetics* **(JCR Q1)**
 
